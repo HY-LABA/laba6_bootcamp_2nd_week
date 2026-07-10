@@ -19,3 +19,6 @@ Thumbs.db
 # 환경변수 / 비밀키
 .env
 *.key
+
+# 예시용
+trash*
